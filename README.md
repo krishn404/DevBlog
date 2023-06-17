@@ -1,7 +1,6 @@
 # DevBlog
 This a DevBlog's Landing Page made with HTML and CSS
-# Blog-Landing-Page
-This a DevBlog's Landing Page made with HTML and CSS
+
 
 <div align="center">
   
@@ -13,7 +12,7 @@ This a DevBlog's Landing Page made with HTML and CSS
 
   THis is a fully responsive blog website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://dev-blog-omega-seven.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://dev-blog-updt.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
